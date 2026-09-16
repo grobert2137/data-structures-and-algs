@@ -1,5 +1,5 @@
 public class Circle {
-    private double pi = 3.14;
+    public double pi = 3.14;
     public double radius;
 
     // parameterized constructor
